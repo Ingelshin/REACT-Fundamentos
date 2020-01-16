@@ -6,7 +6,7 @@ class Card extends React.Component {
     return (
       <div>
         <div>
-          <img src={ExerciseImg} alt="Exercise"/>
+          <img src={ExerciseImg} alt="imagen"/>
         </div>
         <div>
           <h1>Technique Guides</h1>
